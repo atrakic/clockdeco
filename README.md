@@ -5,5 +5,5 @@ The `clockdeco` is a simple decorator that clocks every invocation of the decora
 ## Install
 
 ```
-pip install -U git+https://github.com/atrakic/clodedeco.git
+pip install -U git+https://github.com/atrakic/clockdeco.git
 ```
